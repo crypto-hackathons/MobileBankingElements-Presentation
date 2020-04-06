@@ -4,11 +4,13 @@
 #### Organised by Chain Accelerator & Association Liquid
 
 
-11-12-13 May : Workshops Tech - Business/Finance - Legal
-14-15 May : Hackathon
-Virtual on AltVR + Discord :https://discord.gg/4Z49tU
+- 11-12-13 May : Workshops Tech - Business/Finance - Legal
+- 14-15 May : Hackathon
 
-Registration:
+
+- Virtual on AltVR + Discord :https://discord.gg/4Z49tU
+- Registration:
+
 https://github.com/crypto-hackathons/MobileBankingElements-Registration/blob/master/README.md
 
 # Workshops (FR & EN)
