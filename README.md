@@ -8,10 +8,8 @@
 - 14-15 May : Hackathon
 
 
-- Virtual on AltVR + Discord :https://discord.gg/4Z49tU
-- Registration:
-
-https://github.com/crypto-hackathons/MobileBankingElements-Registration/blob/master/README.md
+- Virtual on Discord :https://discord.gg/4Z49tU
+- Registration : Discord :https://discord.gg/4Z49tU
 
 # Workshops (FR & EN)
 Optional training in viso conference
